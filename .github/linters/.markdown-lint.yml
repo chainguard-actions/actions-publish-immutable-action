@@ -1,0 +1,12 @@
+# Unordered list style
+MD004:
+  style: dash
+
+# Increase the max line length limit
+MD013:
+  line_length: 200
+
+# Ordered list item prefix
+MD029:
+  style: one
+
